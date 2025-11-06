@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_google_pantah",
+    "target_path": "device/google/pantah"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_google_panther",
+    "target_path": "vendor/google/panther",
+    "branch": "lineage-23.0"
+  }
+]
