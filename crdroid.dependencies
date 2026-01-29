@@ -6,6 +6,6 @@
   {
     "repository": "TheMuppets/proprietary_vendor_google_panther",
     "target_path": "vendor/google/panther",
-    "branch": "lineage-23.1"
+    "branch": "lineage-23.2"
   }
 ]
